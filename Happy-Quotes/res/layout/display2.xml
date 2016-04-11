@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="266dp"
+        android:text="1. Try to make at least one person happy every day. If you cannot do a kind deed, speak a kind word. If you cannot speak a kind word, think a kind thought. Count up, if you can, the treasure of happiness that you would dispense in a week, in a year, in a lifetime!. -  By Lawrence G. Lovasik"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="81dp"
+        android:layout_weight="5.91"
+        android:text="2. Be happy with being you. Love your flaws. Own your quirks. And know that you are just as perfect as anyone else, exactly as you are - By Ariana Grande"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

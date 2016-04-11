@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="168dp"
+        android:text="1. You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life - By Albert Camus"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="148dp"
+        android:text="2. Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom - By  Marcel Proust"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="128dp"
+        android:text="3.Be happy with what you have and are, be generous with both, and you won&apos;t have to hunt for happiness - By William E. Gladstone"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>
